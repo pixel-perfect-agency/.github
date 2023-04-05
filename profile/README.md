@@ -31,6 +31,22 @@ Our backend framework of choice is Laravel. We use it to create robust REST APIs
 
 We are big fans of open source software. We believe that open source software is the future of software development. We are currently working on a few open source projects, which you can find on our [GitHub](https://github.com/orgs/pixel-perfect-agency/repositories) when they are released.
 
+### [eslint-config-pixel](https://github.com/pixel-perfect-agency/eslint-config-pixel)
+
+We created our own [ESLint](https://eslint.org) config to make sure we write consistent code. We use it in all our projects and we are happy to share it with the world.
+
+```bash
+npm install --save-dev eslint-config-pixel
+```
+
+### [stylelint-config-pixel](https://github.com/pixel-perfect-agency/stylelint-config-pixel)
+
+We use [stylelint](https://stylelint.io) to make sure we write consistent SCSS code. We use it in all frontend and dashboard projects.
+
+```bash
+npm install --save-dev stylelint-config-pixel
+```
+
 ## Team
 
 Our team consists of young tech enthusiasts who are passionate about building great software.
