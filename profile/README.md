@@ -31,6 +31,16 @@ Our backend framework of choice is Laravel. We use it to create robust REST APIs
 
 We are big fans of open source software. We believe that open source software is the future of software development. We are currently working on a few open source projects, which you can find on our [GitHub](https://github.com/orgs/pixel-perfect-agency/repositories) when they are released.
 
+### [next-foundation](https://github.com/pixel-perfect-agency/next-foundation)
+
+We created a Next.js starter template that we use for all our new projects. 
+
+Next.js it is a great framework for building React applications. It is very easy to get started with and has a lot of great features. However, it's not very opinionated about how a project should be structured. This is fine for a small project built in free time but can become a problem when working on a large project with a team of developers. This is where this project comes in.
+
+```bash
+git clone git@github.com:pixel-perfect-agency/next-foundation.git
+```
+
 ### [eslint-config-pixel](https://github.com/pixel-perfect-agency/eslint-config-pixel)
 
 We created our own [ESLint](https://eslint.org) config to make sure we write consistent code. We use it in all our projects and we are happy to share it with the world.
