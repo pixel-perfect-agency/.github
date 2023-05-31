@@ -13,13 +13,14 @@ We use the following technologies to create beautiful and fast web applications:
 -   [Next.js](https://nextjs.org/)
 -   [React](https://reactjs.org/)
 -   [TypeScript](https://www.typescriptlang.org/)
+-   [TailwindCSS](https://tailwindcss.com/)
 -   [SCSS](https://sass-lang.com/)
 
 This stack allows us to iterate quickly and deploy fast, interactive, typesafe web applications.
 
 Next.js is the largest and fastest growing React framework. It is built on top of React and provides a lot of features out of the box, we don't want to worry about image optimization, font loading, and other performance optimizations. Next takes a lot of the heavy lifting out of our hands, so we can focus on what really matters: building great software.
 
-We currently use SCSS as our CSS preprocessor, with the architecture we currently use it works quite well. We are evaluating Tailwind CSS as an alternative for new projects.
+We currently use TailwindCSS or SCSS in our projects. SCSS used to be our go-to CSS preprocessor, but with the excellent developer experience that TailwindCSS provides, we are moving away from SCSS in projects where this makes sense.
 
 ### Backend
 
@@ -33,7 +34,7 @@ We are big fans of open source software. We believe that open source software is
 
 ### [next-foundation](https://github.com/pixel-perfect-agency/next-foundation)
 
-We created a Next.js starter template that we use for all our new projects. 
+We created a Next.js starter template that we use for all our new projects.
 
 Next.js it is a great framework for building React applications. It is very easy to get started with and has a lot of great features. However, it's not very opinionated about how a project should be structured. This is fine for a small project built in free time but can become a problem when working on a large project with a team of developers. This is where this project comes in.
 
@@ -43,7 +44,7 @@ git clone git@github.com:pixel-perfect-agency/next-foundation.git
 
 ### [eslint-config-pixel](https://github.com/pixel-perfect-agency/eslint-config-pixel)
 
-We created our own [ESLint](https://eslint.org) config to make sure we write consistent code. We use it in all our projects and we are happy to share it with the world.
+We created our own [ESLint](https://eslint.org) config (also includes [prettier](https://prettier.io/) config) to make sure we write consistent code. We use it in all our projects and we are happy to share it with the world.
 
 ```bash
 npm install --save-dev eslint-config-pixel
