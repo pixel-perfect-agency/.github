@@ -1,71 +1,75 @@
-<img src="./assets/banner.png" width="700" alt="Pixel Perfect Agency" />
+<a href="https://pixelperfect.agency/?utm_source=github&utm_medium=referral&utm_campaign=org_profile&utm_content=banner">
+  <img src="https://github.com/pixel-perfect-agency/.github/raw/master/assets/banner.gif" width="100%" alt="Pixel Perfect" />
+</a>
 
-# Pixel Perfect Agency
+# Pixel Perfect
 
-Beautiful, fast, and safe software is what excites us. With our young team, we create web-based software (and everything around it) that helps businesses move forward and makes customers happy. We are innovative, efficient, and critical.
+Pixel Perfect is a software agency based in The Netherlands. We build our own products, and help teams build theirs, from strategy and infrastructure to design and code.
 
-## Our technologies
+Running our own products teaches us things a single project doesn't: how people really use software, what it takes to keep it running, and what's worth building next. We bring that to everything we build with others.
 
-### Frontend
+## Products
 
-We use the following technologies to create beautiful and fast web applications:
+Software we build and run ourselves. Our own products are where we try new ideas first.
 
--   [Next.js](https://nextjs.org/)
--   [React](https://reactjs.org/)
--   [TypeScript](https://www.typescriptlang.org/)
--   [TailwindCSS](https://tailwindcss.com/)
--   [SCSS](https://sass-lang.com/)
+### [Tencil](https://tencil.dev/?utm_source=github&utm_medium=referral&utm_campaign=org_profile&utm_content=products) · open source
 
-This stack allows us to iterate quickly and deploy fast, interactive, typesafe web applications.
+Point at an element in your running app and your coding agent changes it. Pick up a thread your agent already worked in, or start a new one: it gets the component, the source file and the markup with it, so you never have to explain where things live. Works with Claude Code or T3 Code, on Next.js, Vite or any other dev server. No server, no account, everything runs on your own machine.
 
-Next.js is the largest and fastest growing React framework. It is built on top of React and provides a lot of features out of the box, we don't want to worry about image optimization, font loading, and other performance optimizations. Next takes a lot of the heavy lifting out of our hands, so we can focus on what really matters: building great software.
+```bash
+npx tencil
+```
 
-We currently use TailwindCSS or SCSS in our projects. SCSS used to be our go-to CSS preprocessor, but with the excellent developer experience that TailwindCSS provides, we are moving away from SCSS in projects where this makes sense.
+[tencil.dev](https://tencil.dev/?utm_source=github&utm_medium=referral&utm_campaign=org_profile&utm_content=products) · [GitHub](https://github.com/tencildev/tencil)
 
-### Backend
+### [Eyes](https://eyes.dev/?utm_source=github&utm_medium=referral&utm_campaign=org_profile&utm_content=products)
 
-Our backend framework of choice is Laravel. We use it to create robust REST APIs. The Laravel framework is very mature and has a large community.
+Product analytics that reads your data for you. Ask what's happening in plain English and it answers from your own numbers, with the charts and funnels to back it up. When something changes, it tells you on its own.
 
--   [Laravel](https://laravel.com/)
+[eyes.dev](https://eyes.dev/?utm_source=github&utm_medium=referral&utm_campaign=org_profile&utm_content=products)
+
+### [MCP Hosted](https://mcphosted.com/?utm_source=github&utm_medium=referral&utm_campaign=org_profile&utm_content=products)
+
+Connect the software you use every day to Claude, ChatGPT and other AI clients. Many of the tools businesses run on don't ship an MCP server of their own, so we build one, host it and keep it working. One account, one link per tool, no code. WeFact, e-Boekhouden, Zenvoices, Laravel Forge and Google Search Console today.
+
+[mcphosted.com](https://mcphosted.com/?utm_source=github&utm_medium=referral&utm_campaign=org_profile&utm_content=products)
 
 ## Open source
 
-We are big fans of open source software. We believe that open source software is the future of software development. We are currently working on a few open source projects, which you can find on our [GitHub](https://github.com/orgs/pixel-perfect-agency/repositories) when they are released.
-
 ### [next-foundation](https://github.com/pixel-perfect-agency/next-foundation)
 
-We created a Next.js starter template that we use for all our new projects.
-
-Next.js it is a great framework for building React applications. It is very easy to get started with and has a lot of great features. However, it's not very opinionated about how a project should be structured. This is fine for a small project built in free time but can become a problem when working on a large project with a team of developers. This is where this project comes in.
+A pre-configured foundation for scalable Next.js projects. Next.js isn't very opinionated about how a project should be structured, which is fine for a weekend project but becomes a problem on a large codebase with a team. This is the structure we start every new project from.
 
 ```bash
 git clone git@github.com:pixel-perfect-agency/next-foundation.git
 ```
 
-### [eslint-config-pixel](https://github.com/pixel-perfect-agency/eslint-config-pixel)
+### [biome-config-pixel](https://github.com/pixel-perfect-agency/biome-config-pixel)
 
-We created our own [ESLint](https://eslint.org) config (also includes [prettier](https://prettier.io/) config) to make sure we write consistent code. We use it in all our projects and we are happy to share it with the world.
-
-```bash
-npm install --save-dev eslint-config-pixel
-```
-
-### [stylelint-config-pixel](https://github.com/pixel-perfect-agency/stylelint-config-pixel)
-
-We use [stylelint](https://stylelint.io) to make sure we write consistent SCSS code. We use it in all frontend and dashboard projects.
+The strict [Biome](https://biomejs.dev) config we use in every project, for Next.js, React, TypeScript and Tailwind CSS.
 
 ```bash
-npm install --save-dev stylelint-config-pixel
+pnpm add -D biome-config-pixel
 ```
+
+```json
+{
+    "extends": "biome-config-pixel"
+}
+```
+
+## Stack
+
+[Next.js](https://nextjs.org) · [React](https://react.dev) · [TypeScript](https://www.typescriptlang.org) · [Tailwind CSS](https://tailwindcss.com) · [Laravel](https://laravel.com) · [Rust](https://www.rust-lang.org) · [AWS](https://aws.amazon.com) · [Cloudflare](https://www.cloudflare.com)
 
 ## Team
 
-Our team consists of young tech enthusiasts who are passionate about building great software.
+A small team of developers and a designer, working closely together on software that is fast, reliable and easy to use.
 
--   [Willem-Jaap](https://github.com/Willem-Jaap)
--   [Frans](https://github.com/frans-slabbekoorn)
--   [Joan](https://github.com/JoanVerhulst)
+- [Willem-Jaap](https://github.com/Willem-Jaap) · [Website →](https://willemjaap.com/?utm_source=github&utm_medium=referral&utm_campaign=org_profile&utm_content=team)
+- [Frans](https://github.com/frans-slabbekoorn) · [Website →](https://fransslabbekoorn.com/?utm_source=github&utm_medium=referral&utm_campaign=org_profile&utm_content=team)
+- [Joan](https://github.com/JoanVerhulst) · [Website →](https://joanverhulst.com/?utm_source=github&utm_medium=referral&utm_campaign=org_profile&utm_content=team)
 
 ## Contact
 
-If you want to know more about us, or if you have a project that you want to discuss, feel free to take a look at our [website](https://pixelperfect.agency) or contact us at [pixelperfect.agency/contact](https://pixelperfect.agency/contact).
+Curious about our products, have something you want to build, or just want to bounce an idea off us? Take a look at [pixelperfect.agency](https://pixelperfect.agency/?utm_source=github&utm_medium=referral&utm_campaign=org_profile&utm_content=contact) or [get in touch](https://pixelperfect.agency/contact?utm_source=github&utm_medium=referral&utm_campaign=org_profile&utm_content=contact).
