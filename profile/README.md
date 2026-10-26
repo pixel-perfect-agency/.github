@@ -66,9 +66,9 @@ pnpm add -D biome-config-pixel
 
 A small team of developers and a designer, working closely together on software that is fast, reliable and easy to use.
 
-- [Willem-Jaap](https://github.com/Willem-Jaap)
-- [Frans](https://github.com/frans-slabbekoorn)
-- [Joan](https://github.com/JoanVerhulst)
+- [Willem-Jaap](https://github.com/Willem-Jaap) · [Website →](https://willemjaap.com)
+- [Frans](https://github.com/frans-slabbekoorn) · [Website →](https://fransslabbekoorn.com)
+- [Joan](https://github.com/JoanVerhulst) · [Website →](https://joanverhulst.com)
 
 ## Contact
 
