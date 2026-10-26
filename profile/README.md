@@ -1,4 +1,4 @@
-<a href="https://pixelperfect.agency">
+<a href="https://pixelperfect.agency/?utm_source=github&utm_medium=referral&utm_campaign=org_profile&utm_content=banner">
   <img src="https://github.com/pixel-perfect-agency/.github/raw/master/assets/banner.gif" width="100%" alt="Pixel Perfect" />
 </a>
 
@@ -12,7 +12,7 @@ Running our own products teaches us things a single project doesn't: how people 
 
 Software we build and run ourselves. Our own products are where we try new ideas first.
 
-### [Tencil](https://tencil.dev) · open source
+### [Tencil](https://tencil.dev/?utm_source=github&utm_medium=referral&utm_campaign=org_profile&utm_content=products) · open source
 
 Point at an element in your running app and your coding agent changes it. Pick up a thread your agent already worked in, or start a new one: it gets the component, the source file and the markup with it, so you never have to explain where things live. Works with Claude Code or T3 Code, on Next.js, Vite or any other dev server. No server, no account, everything runs on your own machine.
 
@@ -20,19 +20,19 @@ Point at an element in your running app and your coding agent changes it. Pick u
 npx tencil
 ```
 
-[tencil.dev](https://tencil.dev) · [GitHub](https://github.com/tencildev/tencil)
+[tencil.dev](https://tencil.dev/?utm_source=github&utm_medium=referral&utm_campaign=org_profile&utm_content=products) · [GitHub](https://github.com/tencildev/tencil)
 
-### [Eyes](https://eyes.dev)
+### [Eyes](https://eyes.dev/?utm_source=github&utm_medium=referral&utm_campaign=org_profile&utm_content=products)
 
 Product analytics that reads your data for you. Ask what's happening in plain English and it answers from your own numbers, with the charts and funnels to back it up. When something changes, it tells you on its own.
 
-[eyes.dev](https://eyes.dev)
+[eyes.dev](https://eyes.dev/?utm_source=github&utm_medium=referral&utm_campaign=org_profile&utm_content=products)
 
-### [MCP Hosted](https://mcphosted.com)
+### [MCP Hosted](https://mcphosted.com/?utm_source=github&utm_medium=referral&utm_campaign=org_profile&utm_content=products)
 
 Connect the software you use every day to Claude, ChatGPT and other AI clients. Many of the tools businesses run on don't ship an MCP server of their own, so we build one, host it and keep it working. One account, one link per tool, no code. WeFact, e-Boekhouden, Zenvoices, Laravel Forge and Google Search Console today.
 
-[mcphosted.com](https://mcphosted.com)
+[mcphosted.com](https://mcphosted.com/?utm_source=github&utm_medium=referral&utm_campaign=org_profile&utm_content=products)
 
 ## Open source
 
@@ -66,10 +66,10 @@ pnpm add -D biome-config-pixel
 
 A small team of developers and a designer, working closely together on software that is fast, reliable and easy to use.
 
-- [Willem-Jaap](https://github.com/Willem-Jaap) · [Website →](https://willemjaap.com)
-- [Frans](https://github.com/frans-slabbekoorn) · [Website →](https://fransslabbekoorn.com)
-- [Joan](https://github.com/JoanVerhulst) · [Website →](https://joanverhulst.com)
+- [Willem-Jaap](https://github.com/Willem-Jaap) · [Website →](https://willemjaap.com/?utm_source=github&utm_medium=referral&utm_campaign=org_profile&utm_content=team)
+- [Frans](https://github.com/frans-slabbekoorn) · [Website →](https://fransslabbekoorn.com/?utm_source=github&utm_medium=referral&utm_campaign=org_profile&utm_content=team)
+- [Joan](https://github.com/JoanVerhulst) · [Website →](https://joanverhulst.com/?utm_source=github&utm_medium=referral&utm_campaign=org_profile&utm_content=team)
 
 ## Contact
 
-Curious about our products, have something you want to build, or just want to bounce an idea off us? Take a look at [pixelperfect.agency](https://pixelperfect.agency) or [get in touch](https://pixelperfect.agency/contact).
+Curious about our products, have something you want to build, or just want to bounce an idea off us? Take a look at [pixelperfect.agency](https://pixelperfect.agency/?utm_source=github&utm_medium=referral&utm_campaign=org_profile&utm_content=contact) or [get in touch](https://pixelperfect.agency/contact?utm_source=github&utm_medium=referral&utm_campaign=org_profile&utm_content=contact).
